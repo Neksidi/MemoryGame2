@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/punainen"
+        android:title="@string/red"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/vihrea"
+        android:title="@string/green"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/keltainen"
+        android:title="@string/yellow"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/tausta"
+        android:title="@string/backimage"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/tausta2"
+        android:title="@string/sunimage"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/aloitaAlusta"
+        android:title="@string/startagain"
+        app:showAsAction="never" />
+
+
+</menu>

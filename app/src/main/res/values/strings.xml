@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MemoryGame2</string>
+    <string name="Player1">Player1: 0</string>
+    <string name="Player2">Player2: 0</string>
+    <string name="red">Red Background</string>
+    <string name="green">Green Background</string>
+    <string name="yellow">Yellow Background</string>
+    <string name="backimage">Beach Background</string>
+    <string name="sunimage">Sun Background</string>
+    <string name="startagain">Restart</string>
+</resources>

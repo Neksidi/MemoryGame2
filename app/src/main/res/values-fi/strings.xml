@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Muistipeli</string>
+    <string name="Player1">Pelaaja1: 0</string>
+    <string name="Player2">Pelaaja2: 0</string>
+    <string name="backimage">Ranta tausta</string>
+    <string name="green">Vihreä tausta</string>
+    <string name="red">Punainen tausta</string>
+    <string name="startagain">Aloita alusta</string>
+    <string name="sunimage">Aurinko tausta</string>
+    <string name="yellow">Keltainen tausta</string>
+</resources>
